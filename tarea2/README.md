@@ -102,7 +102,9 @@ abajo(2)
 print(espacios_acumulados + "v")
 
 ### ✅ Solución en Python
-![Uploading image.png…]()
+<img width="698" height="201" alt="image" src="https://github.com/user-attachments/assets/eb828103-fa9d-411c-a5f8-8ffde58865b1" />
+
+
 
 
 
