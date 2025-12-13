@@ -12,7 +12,8 @@ pasos_adelante= int (input("Ingrese el número de pasos hacia adelante: "))
 print ("- " * (pasos_adelante ) + tortuga)
 
 ### ✅ Solución en Python
-<img width="691" height="135" alt="image" src="https://github.com/user-attachments/assets/6ac3d429-9aa3-456b-93c6-4ccf3e5e5203" />
+<img width="699" height="187" alt="image" src="https://github.com/user-attachments/assets/645ea66c-5ad9-438c-b759-bd3e98d5c69c" />
+
 
 
 ## 🐢 Reto 2: Tortuga bajando
@@ -25,7 +26,8 @@ pasos_abajo= int (input("Ingrese el número de pasos hacia abajo: "))
 print ("|\n" * (pasos_abajo ) + tortuga)
 
 ### ✅ Solución en Python
-<img width="694" height="184" alt="image" src="https://github.com/user-attachments/assets/06f3c764-bab3-42e5-971c-6bccb5cb89e5" />
+<img width="697" height="158" alt="image" src="https://github.com/user-attachments/assets/330a139a-0d81-4ada-b247-dbc572df837e" />
+
 
 ## 🐢 Reto 3: Girar y dibujar usando texto
 *Enunciado:* 
@@ -42,7 +44,8 @@ print(camino_abajo * (pasos_abajo), end='')
 print(espacios+tortuga_abajo)
 
 ### ✅ Solución en Python
-<img width="701" height="190" alt="image" src="https://github.com/user-attachments/assets/14b01b16-c856-4bfb-8dbf-9cd4edc927ec" />
+<img width="697" height="173" alt="image" src="https://github.com/user-attachments/assets/6645ab74-aa82-4137-bce4-44d5ce850940" />
+
 
 ## 🐢 Reto 4: Encapsular con funciones
 *Enunciado:* 
@@ -61,7 +64,8 @@ print(camino_abajo * abajo, end='')
 print(espacios + tortuga_abajo)
 
 ### ✅ Solución en Python
-<img width="698" height="201" alt="image" src="https://github.com/user-attachments/assets/a9b1a590-d79d-410d-b4c9-4f0479e20521" />
+<img width="697" height="179" alt="image" src="https://github.com/user-attachments/assets/18c04cb2-bc24-4722-b83a-fca4c83a5ec0" />
+
 
 ## 🐢 Reto 5: La tortuga baja las escaleras
 *Enunciado:* 
@@ -102,7 +106,8 @@ abajo(2)
 print(espacios_acumulados + "v")
 
 ### ✅ Solución en Python
-<img width="698" height="201" alt="image" src="https://github.com/user-attachments/assets/eb828103-fa9d-411c-a5f8-8ffde58865b1" />
+<img width="700" height="185" alt="image" src="https://github.com/user-attachments/assets/cb54f258-0aea-42eb-8ff6-58c630ab000f" />
+
 
 
 
