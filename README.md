@@ -44,8 +44,8 @@ En esta sección se presentan los enlaces a los ejercicios desarrollados en la t
 
 * *Ejercicio 1 – Versión Funcional (Modularidad)*   
 
-https://github.com/neiracardona-sketch/Ejercicio-1
+(https://github.com/neiracardona-sketch/Ejercicio-1)
 
 * *Ejercicio 2 – Versión Orientada a Objetos (POO)*
 
-https://github.com/neiracardona-sketch/Ejercicio-2
+(https://github.com/neiracardona-sketch/Ejercicio-2)
