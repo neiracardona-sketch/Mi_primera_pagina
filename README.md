@@ -33,3 +33,7 @@ Todo lo que se escribe con input() se guarda en una variable y siempre se lee co
 *Aprendí que el hardware, el software y los lenguajes de programación trabajan juntos para que la computadora funcione. Con Python podemos dar instrucciones, usar variables y condicionales para que el programa tome decisiones y realice diferentes tareas*.
 
 **Referencia**:*https://chatgpt.com/c/690feaf6-0940-8329-8e8f-469a46f06df4*
+
+## Tarea 2 – Aprendiendo a programar como una tortuga
+
+👉 [Ver desarrollo completo de la Tarea 2](tarea2/)
