@@ -76,10 +76,8 @@ https://github.com/neiracardona-sketch/Ejercicio-2
 
 ## 🐢 Tarea Mini-Turtle
 
-En esta sección se presentan los enlaces a los ejercicios desarrollados en la tarea Mini-Turtle.
+- *Ejercicio 1 – Versión Funcional:*  
+  [Ir al repositorio del Ejercicio 1](https://github.com/neiracardona-sketch/mini_turtle)
 
-- *Ejercicio 1 – Versión Funcional (Modularidad)*  
-  👉 [Ver repositorio del Ejercicio 1](https://github.com/neiracardona-sketch/mini_turtle)
-
-- *Ejercicio 2 – Versión Orientada a Objetos (POO)*  
-  👉 [Ver repositorio del Ejercicio 2](https://github.com/neiracardona-sketch/mini_turtle_oo)
+- *Ejercicio 2 – Versión Orientada a Objetos:*  
+  [Ir al repositorio del Ejercicio 2](https://github.com/neiracardona-sketch/mini_turtle_oo)
