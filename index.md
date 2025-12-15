@@ -60,3 +60,15 @@ https://chatgpt.com/c/690fead2-fed8-8325-bb1d-0804081f93de
 ## Tarea 2 – Aprendiendo a programar como una tortuga
 
 👉 [Ver desarrollo completo de la Tarea 2](tarea2/)
+
+## 🐢 Tarea Mini-Turtle
+
+En esta sección se presentan los enlaces a los ejercicios desarrollados en la tarea Mini-Turtle.
+
+* *Ejercicio 1 – Versión Funcional (Modularidad)*   
+
+https://github.com/neiracardona-sketch/Ejercicio-1
+
+* *Ejercicio 2 – Versión Orientada a Objetos (POO)*
+
+https://github.com/neiracardona-sketch/Ejercicio-2
