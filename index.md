@@ -62,7 +62,8 @@ Este proyecto muestra dos enfoques distintos para resolver el mismo problema: el
 
 ## Repositorios
 [Versión funcional](https://github.com/neiracardona-sketch/mini_tracker)
-[Versión orientada a objetos](https://github.com/neiracardona-sketch/mini_tracker_oo_)
+
+[Versión orientada a objetos](https://github.com/neiracardona-sketch/mini_tracker_oo_/tree/main/mini_tracker_oo_task)
 
 ## Comparación
 - **Funcional:** sencillo, rápido de implementar, pero dependiente de estado global.
