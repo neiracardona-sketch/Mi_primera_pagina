@@ -1,8 +1,13 @@
+# Pensamiento algoritmico 
+# 1. Version funcional estado global.
+# 2. Version POO
+
+
 Este proyecto muestra dos enfoques distintos para resolver el mismo problema: el seguimiento de tareas y tiempos trabajados.
 
 ## Repositorios
-- [Versión funcional](https://github.com/tu_usuario/mini_tracker_funcional)  
-- [Versión orientada a objetos](https://github.com/tu_usuario/mini_tracker_oo)
+1, [Versión funcional](https://github.com/tu_usuario/mini_tracker_funcional)  
+2. [Versión orientada a objetos](https://github.com/tu_usuario/mini_tracker_oo)
 
 ## Comparación
 - **Funcional:** sencillo, rápido de implementar, pero dependiente de estado global.
