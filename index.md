@@ -61,8 +61,8 @@ https://github.com/neiracardona-sketch/Ejercicio-2
 Este proyecto muestra dos enfoques distintos para resolver el mismo problema: el seguimiento de tareas y tiempos trabajados.
 
 ## Repositorios
-[Versión funcional](https://github.com/tu_usuario/mini_tracker_funcional)  
-[Versión orientada a objetos](https://github.com/tu_usuario/mini_tracker_oo)
+[Versión funcional](https://github.com/neiracardona-sketch/mini_tracker)
+[Versión orientada a objetos](https://github.com/neiracardona-sketch/mini_tracker_oo_)
 
 ## Comparación
 - **Funcional:** sencillo, rápido de implementar, pero dependiente de estado global.
