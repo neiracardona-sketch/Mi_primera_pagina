@@ -6,7 +6,7 @@
 Este proyecto muestra dos enfoques distintos para resolver el mismo problema: el seguimiento de tareas y tiempos trabajados.
 
 ## Repositorios
-1, [Versión funcional](https://github.com/neiracardona-sketch/mini_tracker) 
+1. [Versión funcional](https://github.com/neiracardona-sketch/mini_tracker) 
 2. [Versión orientada a objetos](https://github.com/neiracardona-sketch/mini_tracker_oo_)
 
 ## Comparación
